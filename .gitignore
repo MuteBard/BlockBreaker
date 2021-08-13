@@ -1,2 +1,11 @@
-BlockBreaker
+.vscode
+Assets
+Library
+Logs
+Packages
+ProjectSettings
+Temp
+UserSettings
+Assembly-CSharp.*
+BlockBreaker.*
 
