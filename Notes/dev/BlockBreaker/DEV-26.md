@@ -1,1 +1,14 @@
-## DEV-26, Using tags in unity
+## DEV-26, Using tags in unity, unbreakable block
+
+https://docs.unity3d.com/Manual/Tags.html
+
+Added unbreakable blocks and a third level
+
+Made it possible to do minor block level designing with auto generation cause i was not gonna build these blocks one by one
+
+![](../../images/BlockBreaker/DEV-26-A.png)
+
+![](../../images/BlockBreaker/DEV-26-B.png)
+
+![](../../images/BlockBreaker/DEV-26-C.png)
+
