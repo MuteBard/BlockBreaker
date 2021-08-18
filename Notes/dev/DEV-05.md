@@ -1,5 +1,5 @@
 ## DEV-05, Triggers:
-We want the game to trigger an event when something enters a certain zone
+We want the game to trigger called LoseCollider an event when something enters a certain zone
 
 ### Create a game object and then edit the collider to extend to the left
 ![](../images/DEV-05-A.png)
